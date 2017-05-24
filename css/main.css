@@ -10,5 +10,21 @@ header{
   align-items: center;
 }
 .foto{
-  background: red;
+  background: #eee;
+  height: 220px;
+  border:2px solid #969390;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+}
+.top{
+  margin-top: 50px;
+}
+.foto p{
+  margin: auto;
+  color:#969390;
+  font-size:22px;
+  font-weight: 700;
+}
+.primero{
 }
